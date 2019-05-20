@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonClassifierApplesAndOranges", "PythonClassifierApplesAndOranges.pyproj", "{0F3BEC90-1461-45E2-8037-2EBB3FD4372B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3BEC90-1461-45E2-8037-2EBB3FD4372B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3BEC90-1461-45E2-8037-2EBB3FD4372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2DBFC43-D076-4F60-AA4E-6DECF49BFE26}
+	EndGlobalSection
+EndGlobal
